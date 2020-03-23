@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc959d64-c7c6-40af-8b77-59006af4ba9f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="ssmbuild: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven_repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZEnbPI4Ev2E1yXyhBUlWfIJUuI" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/新建文件夹" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="leetcode.editor.cn" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="RunManager" selected="Application.P112PathSum">
+    <configuration name="P104MaximumDepthOfBinaryTree (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P104MaximumDepthOfBinaryTree" />
+      <module name="leetcode_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P104MaximumDepthOfBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P104MaximumDepthOfBinaryTree" />
+      <module name="leetcode_test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P110BalancedBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P110BalancedBinaryTree" />
+      <module name="leetcode_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P112PathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P112PathSum" />
+      <module name="leetcode_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P86PartitionList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P86PartitionList" />
+      <module name="leetcode_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.P112PathSum" />
+        <item itemvalue="Application.P110BalancedBinaryTree" />
+        <item itemvalue="Application.P104MaximumDepthOfBinaryTree (1)" />
+        <item itemvalue="Application.P104MaximumDepthOfBinaryTree" />
+        <item itemvalue="Application.P86PartitionList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc959d64-c7c6-40af-8b77-59006af4ba9f" name="Default Changelist" comment="" />
+      <created>1584413191562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584413191562</updated>
+      <workItem from="1584413193000" duration="1682000" />
+      <workItem from="1584415178131" duration="2965000" />
+      <workItem from="1584434689177" duration="1000" />
+      <workItem from="1584512091852" duration="2897000" />
+      <workItem from="1584574993546" duration="3082000" />
+      <workItem from="1584583707195" duration="1875000" />
+      <workItem from="1584585597618" duration="300000" />
+      <workItem from="1584676041275" duration="1110000" />
+      <workItem from="1584688626719" duration="9319000" />
+      <workItem from="1584924228067" duration="1444000" />
+      <workItem from="1584936126030" duration="10187000" />
+      <workItem from="1584964670148" duration="2969000" />
+      <workItem from="1584972988427" duration="3347000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="553" y="152" key="#Notifications" timestamp="1584415481401">
+      <screen x="72" y="0" width="1976" height="1152" />
+    </state>
+    <state x="553" y="152" key="#Notifications/2632.162.1464.864/72.0.1976.1152@72.0.1976.1152" timestamp="1584415481401" />
+    <state x="653" y="227" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584676371824">
+      <screen x="72" y="0" width="1976" height="1152" />
+    </state>
+    <state x="653" y="227" key="#com.intellij.execution.impl.EditConfigurationsDialog/2632.162.1464.864/72.0.1976.1152@72.0.1976.1152" timestamp="1584676371824" />
+    <state x="778" y="206" key="#com.intellij.ide.util.MemberChooser" timestamp="1584417036387">
+      <screen x="72" y="0" width="1976" height="1152" />
+    </state>
+    <state x="778" y="206" key="#com.intellij.ide.util.MemberChooser/2632.162.1464.864/72.0.1976.1152@72.0.1976.1152" timestamp="1584417036387" />
+    <state x="869" y="456" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1584416621188">
+      <screen x="72" y="0" width="1976" height="1152" />
+    </state>
+    <state x="869" y="456" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/2632.162.1464.864/72.0.1976.1152@72.0.1976.1152" timestamp="1584416621188" />
+    <state x="554" y="338" width="579" height="358" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1584964966654">
+      <screen x="72" y="0" width="1976" height="1152" />
+    </state>
+    <state x="554" y="338" width="579" height="358" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/2632.162.1464.864/72.0.1976.1152@72.0.1976.1152" timestamp="1584964966654" />
+    <state x="791" y="274" key="FileChooserDialogImpl" timestamp="1584966421842">
+      <screen x="72" y="0" width="1976" height="1152" />
+    </state>
+    <state x="791" y="274" key="FileChooserDialogImpl/2632.162.1464.864/72.0.1976.1152@72.0.1976.1152" timestamp="1584966421842" />
+    <state width="961" height="263" key="GridCell.Tab.0.bottom" timestamp="1584585583321">
+      <screen x="72" y="0" width="1976" height="1152" />
+    </state>
+    <state width="1483" height="304" key="GridCell.Tab.0.bottom/2632.162.1464.864/72.0.1976.1152@2632.162.1464.864" timestamp="1584415678285" />
+    <state width="961" height="263" key="GridCell.Tab.0.bottom/2632.162.1464.864/72.0.1976.1152@72.0.1976.1152" timestamp="1584585583321" />
+    <state width="961" height="263" key="GridCell.Tab.0.center" timestamp="1584585583321">
+      <screen x="72" y="0" width="1976" height="1152" />
+    </state>
+    <state width="1483" height="304" key="GridCell.Tab.0.center/2632.162.1464.864/72.0.1976.1152@2632.162.1464.864" timestamp="1584415678285" />
+    <state width="961" height="263" key="GridCell.Tab.0.center/2632.162.1464.864/72.0.1976.1152@72.0.1976.1152" timestamp="1584585583321" />
+    <state width="961" height="263" key="GridCell.Tab.0.left" timestamp="1584585583321">
+      <screen x="72" y="0" width="1976" height="1152" />
+    </state>
+    <state width="1483" height="304" key="GridCell.Tab.0.left/2632.162.1464.864/72.0.1976.1152@2632.162.1464.864" timestamp="1584415678285" />
+    <state width="961" height="263" key="GridCell.Tab.0.left/2632.162.1464.864/72.0.1976.1152@72.0.1976.1152" timestamp="1584585583321" />
+    <state width="961" height="263" key="GridCell.Tab.0.right" timestamp="1584585583321">
+      <screen x="72" y="0" width="1976" height="1152" />
+    </state>
+    <state width="1483" height="304" key="GridCell.Tab.0.right/2632.162.1464.864/72.0.1976.1152@2632.162.1464.864" timestamp="1584415678285" />
+    <state width="961" height="263" key="GridCell.Tab.0.right/2632.162.1464.864/72.0.1976.1152@72.0.1976.1152" timestamp="1584585583321" />
+    <state width="1923" height="466" key="GridCell.Tab.1.bottom" timestamp="1584577424673">
+      <screen x="72" y="0" width="1976" height="1152" />
+    </state>
+    <state width="1923" height="466" key="GridCell.Tab.1.bottom/2632.162.1464.864/72.0.1976.1152@72.0.1976.1152" timestamp="1584577424673" />
+    <state width="1923" height="466" key="GridCell.Tab.1.center" timestamp="1584577424673">
+      <screen x="72" y="0" width="1976" height="1152" />
+    </state>
+    <state width="1923" height="466" key="GridCell.Tab.1.center/2632.162.1464.864/72.0.1976.1152@72.0.1976.1152" timestamp="1584577424673" />
+    <state width="1923" height="466" key="GridCell.Tab.1.left" timestamp="1584577424673">
+      <screen x="72" y="0" width="1976" height="1152" />
+    </state>
+    <state width="1923" height="466" key="GridCell.Tab.1.left/2632.162.1464.864/72.0.1976.1152@72.0.1976.1152" timestamp="1584577424673" />
+    <state width="1923" height="466" key="GridCell.Tab.1.right" timestamp="1584577424673">
+      <screen x="72" y="0" width="1976" height="1152" />
+    </state>
+    <state width="1923" height="466" key="GridCell.Tab.1.right/2632.162.1464.864/72.0.1976.1152@72.0.1976.1152" timestamp="1584577424673" />
+    <state x="816" y="473" key="MetricsReloaded.ThresholdDialog" timestamp="1584964855444">
+      <screen x="72" y="0" width="1976" height="1152" />
+    </state>
+    <state x="816" y="473" key="MetricsReloaded.ThresholdDialog/2632.162.1464.864/72.0.1976.1152@72.0.1976.1152" timestamp="1584964855444" />
+    <state x="116" y="102" width="1554" height="883" key="SettingsEditor" timestamp="1584967451031">
+      <screen x="72" y="0" width="1976" height="1152" />
+    </state>
+    <state x="116" y="102" width="1554" height="883" key="SettingsEditor/2632.162.1464.864/72.0.1976.1152@72.0.1976.1152" timestamp="1584967451031" />
+    <state x="888" y="287" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1584676213885">
+      <screen x="72" y="0" width="1976" height="1152" />
+    </state>
+    <state x="888" y="287" key="com.intellij.database.view.ui.DbObjectDialog/2632.162.1464.864/72.0.1976.1152@72.0.1976.1152" timestamp="1584676213885" />
+    <state x="728" y="298" key="extract.method.dialog" timestamp="1584945130445">
+      <screen x="72" y="0" width="1976" height="1152" />
+    </state>
+    <state x="728" y="298" key="extract.method.dialog/2632.162.1464.864/72.0.1976.1152@72.0.1976.1152" timestamp="1584945130445" />
+    <state x="288" y="204" key="new project wizard" timestamp="1584926508115">
+      <screen x="72" y="0" width="1976" height="1152" />
+    </state>
+    <state x="288" y="204" key="new project wizard/2632.162.1464.864/72.0.1976.1152@72.0.1976.1152" timestamp="1584926508115" />
+    <state x="639" y="117" width="840" height="1034" key="search.everywhere.popup" timestamp="1584964955227">
+      <screen x="72" y="0" width="1976" height="1152" />
+    </state>
+    <state x="639" y="117" width="840" height="1034" key="search.everywhere.popup/2632.162.1464.864/72.0.1976.1152@72.0.1976.1152" timestamp="1584964955227" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/editor/cn/P104MaximumDepthOfBinaryTree.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="before" />
+        <watch expression="before.next.next" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

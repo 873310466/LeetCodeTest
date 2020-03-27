@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc959d64-c7c6-40af-8b77-59006af4ba9f" name="Default Changelist" comment="" />
+    <list default="true" id="bc959d64-c7c6-40af-8b77-59006af4ba9f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/P102BinaryTreeLevelOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/P160IntersectionOfTwoLinkedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/P206ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/P236LowestCommonAncestorOfABinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/P513FindBottomLeftTreeValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/P637AverageOfLevelsInBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/P669TrimABinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/P671SecondMinimumNodeInABinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/P面试题55 - IIPingHengErChaShuLcof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/P面试题68 - IIErChaShuDeZuiJinGongGongZuXianLcof.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/cn/P687LongestUnivaluePath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/P687LongestUnivaluePath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/all.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/translation.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,11 +72,15 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZEnbPI4Ev2E1yXyhBUlWfIJUuI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -174,12 +193,22 @@
       <workItem from="1584924228067" duration="1444000" />
       <workItem from="1584936126030" duration="10187000" />
       <workItem from="1584964670148" duration="2969000" />
-      <workItem from="1584972988427" duration="3347000" />
+      <workItem from="1584972988427" duration="4923000" />
+      <workItem from="1584984229378" duration="3847000" />
+      <workItem from="1585017832011" duration="284000" />
+      <workItem from="1585018132422" duration="1196000" />
+      <workItem from="1585115402607" duration="4409000" />
+      <workItem from="1585277473523" duration="490000" />
+      <workItem from="1585277977512" duration="4553000" />
+      <workItem from="1585297019469" duration="2976000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="553" y="152" key="#Notifications" timestamp="1584415481401">
@@ -250,6 +279,10 @@
       <screen x="72" y="0" width="1976" height="1152" />
     </state>
     <state x="116" y="102" width="1554" height="883" key="SettingsEditor/2632.162.1464.864/72.0.1976.1152@72.0.1976.1152" timestamp="1584967451031" />
+    <state x="553" y="244" key="Vcs.Push.Dialog.v2" timestamp="1584982744467">
+      <screen x="72" y="0" width="1976" height="1152" />
+    </state>
+    <state x="553" y="244" key="Vcs.Push.Dialog.v2/72.0.1976.1152@72.0.1976.1152" timestamp="1584982744467" />
     <state x="888" y="287" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1584676213885">
       <screen x="72" y="0" width="1976" height="1152" />
     </state>
@@ -258,14 +291,15 @@
       <screen x="72" y="0" width="1976" height="1152" />
     </state>
     <state x="728" y="298" key="extract.method.dialog/2632.162.1464.864/72.0.1976.1152@72.0.1976.1152" timestamp="1584945130445" />
-    <state x="288" y="204" key="new project wizard" timestamp="1584926508115">
+    <state x="288" y="204" key="new project wizard" timestamp="1585125256809">
       <screen x="72" y="0" width="1976" height="1152" />
     </state>
-    <state x="288" y="204" key="new project wizard/2632.162.1464.864/72.0.1976.1152@72.0.1976.1152" timestamp="1584926508115" />
-    <state x="639" y="117" width="840" height="1034" key="search.everywhere.popup" timestamp="1584964955227">
+    <state x="288" y="204" key="new project wizard/2632.162.1464.864/72.0.1976.1152@72.0.1976.1152" timestamp="1585125256809" />
+    <state x="639" y="117" width="840" height="1034" key="search.everywhere.popup" timestamp="1585282920687">
       <screen x="72" y="0" width="1976" height="1152" />
     </state>
-    <state x="639" y="117" width="840" height="1034" key="search.everywhere.popup/2632.162.1464.864/72.0.1976.1152@72.0.1976.1152" timestamp="1584964955227" />
+    <state x="639" y="117" width="840" height="1034" key="search.everywhere.popup/2632.162.1464.864/72.0.1976.1152@72.0.1976.1152" timestamp="1585282920687" />
+    <state x="639" y="117" width="840" height="1034" key="search.everywhere.popup/72.0.1976.1152@72.0.1976.1152" timestamp="1584987304914" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
